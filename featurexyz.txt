@@ -1,1 +1,3 @@
 Adding the file for feature xyz.
+
+Så retter vi lige lidt på teksten igen.
