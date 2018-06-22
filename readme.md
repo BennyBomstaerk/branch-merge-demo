@@ -6,3 +6,5 @@ OK so now I am making a change on the local version, which will conflict with a 
 
 I want to keep this version.
 
+OK så laver vi lige en local change igen, som vi checker ind.
+
