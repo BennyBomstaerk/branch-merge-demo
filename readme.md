@@ -6,3 +6,4 @@ OK so now I am making a change on the local version, which will conflict with a 
 
 I want to keep this version.
 
+And a remote change.
