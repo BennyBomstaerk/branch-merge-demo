@@ -1,4 +1,4 @@
-The inital readme file
+The inital readme file (BJO)
 
 Here I am making a change to the local version of the readme.md file.
 
@@ -6,4 +6,4 @@ OK so now I am making a change on the local version, which will conflict with a 
 
 I want to keep this version.
 
-OK så laver vi lige en local change igen, som vi checker ind. Det var den jeg beholdt.
+OK sÃ¥ laver vi lige en local change igen, som vi checker ind. Det var den jeg beholdt.
